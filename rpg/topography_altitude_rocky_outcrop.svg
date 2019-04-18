@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.5119324mm"
-   height="5.5146232mm"
-   viewBox="0 0 5.5119324 5.5146232"
+   width="300"
+   height="300"
+   viewBox="0 0 79.375 79.375"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="topography_hight_valley.svg">
+   sodipodi:docname="topography_hight_rocky_outcrop.svg">
   <defs
      id="defs2">
     <clipPath
@@ -314,9 +314,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="9.0584667"
-     inkscape:cy="5.4467978"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="103.38611"
+     inkscape:cy="-39.787356"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -328,7 +328,8 @@
      inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -345,14 +346,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-81.721712,-123.77543)">
+     transform="translate(-81.721712,-49.915053)">
     <g
-       id="g5556"
-       transform="matrix(0.35277777,0,0,-0.35277777,81.508445,125.21121)">
+       id="g5560"
+       transform="matrix(4.683641,0,0,-4.683641,160.82591,99.892536)">
       <path
-         d="m 0,0 c 2.919,1.208 4.102,-8.584 8.239,-8.959 4.139,-0.375 5.899,11.417 8.603,10.375"
+         d="m 0,0 c -3.736,0.583 -11.919,4.835 -13.964,5.71 -2.045,0.875 -0.937,-6.151 -1.416,-6.751 -0.433,-0.542 -0.433,-0.291 -1.495,-0.25"
          style="fill:none;stroke:#231f20;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path5558"
+         id="path5562"
          inkscape:connector-curvature="0" />
     </g>
   </g>

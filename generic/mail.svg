@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="6.4750247mm"
-   height="3.8788624mm"
-   viewBox="0 0 22.943001 13.744001"
+   width="300"
+   height="300"
+   viewBox="0 0 281.24999 281.25002"
    id="svg10925"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="icone_enveloppe.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="mail.svg">
   <defs
      id="defs10927" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="179.32864"
-     inkscape:cy="-613.128"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-231.65674"
+     inkscape:cy="-422.9443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +36,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata10930">
     <rdf:RDF>
@@ -56,23 +57,27 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(537.18579,94.509798)">
+     transform="translate(537.18579,362.0158)">
     <g
-       transform="translate(-910.25079,-132.2218)"
-       id="g5397">
-      <rect
-         x="373.565"
-         y="38.212002"
-         stroke-miterlimit="10"
-         width="21.943001"
-         height="12.744"
-         id="rect5399"
-         style="fill:#ffffff;stroke:#23221f;stroke-miterlimit:10" />
-      <polyline
-         stroke-miterlimit="10"
-         points="373.565,38.212 384.537,44.584 395.509,38.212   "
-         id="polyline5401"
-         style="fill:none;stroke:#23221f;stroke-miterlimit:10" />
+       id="g818"
+       transform="matrix(12.258641,0,0,12.258641,6047.9819,852.92951)">
+      <g
+         id="g5397"
+         transform="translate(-910.25079,-132.2218)">
+        <rect
+           style="fill:#ffffff;stroke:#23221f;stroke-miterlimit:10"
+           id="rect5399"
+           height="12.744"
+           width="21.943001"
+           stroke-miterlimit="10"
+           y="38.212002"
+           x="373.565" />
+        <polyline
+           style="fill:none;stroke:#23221f;stroke-miterlimit:10"
+           id="polyline5401"
+           points="373.565,38.212 384.537,44.584 395.509,38.212   "
+           stroke-miterlimit="10" />
+      </g>
     </g>
   </g>
 </svg>

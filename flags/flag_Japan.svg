@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15.159921mm"
-   height="9.4817848mm"
-   viewBox="0 0 15.159921 9.4817848"
+   width="300"
+   height="300"
+   viewBox="0 0 79.375004 79.375002"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
@@ -42,11 +42,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-9.9227591"
-     inkscape:cy="-239.22451"
+     inkscape:zoom="0.7"
+     inkscape:cx="187.75517"
+     inkscape:cy="61.807863"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g831"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -54,9 +54,10 @@
      fit-margin-bottom="0"
      inkscape:window-width="959"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="959"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,40 +74,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-37.02123,-103.27102)">
-    <path
-       d="m 51.883405,112.44439 h -14.56443 v -8.86495 h 14.56443 z"
-       style="fill:#70706f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28222224"
-       id="path826"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       d="M 51.88358,112.44439 H 37.3188 v -8.86495 h 14.56478 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28222224"
-       id="path828"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+     transform="translate(-37.02123,-33.377804)">
     <g
-       transform="matrix(0.35277777,0,0,-0.35277777,-137.77151,125.30698)"
-       id="g830"
-       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       id="g831"
+       transform="translate(-0.29757,-16.228045)">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/japonais.png"
+         inkscape:connector-curvature="0"
+         id="path828"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50571668"
+         d="M 116.6938,112.44439 H 37.318799 V 66.142307 H 116.6938 Z" />
       <g
-         id="g832"
-         clip-path="url(#clipPath834)">
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/japonais.png"
+         id="g830"
+         transform="matrix(1.9225649,0,0,-1.8425762,-916.88671,179.62635)">
         <g
-           id="g838"
-           transform="translate(524.166,49.0254)">
-          <path
-             d="m 0,0 c 0,-3.979 -3.226,-7.204 -7.204,-7.204 -3.979,0 -7.204,3.225 -7.204,7.204 0,3.979 3.225,7.204 7.204,7.204 C -3.226,7.204 0,3.979 0,0"
-             style="fill:#e30613;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path840"
-             inkscape:connector-curvature="0" />
+           clip-path="url(#clipPath834)"
+           id="g832">
+          <g
+             transform="translate(524.166,49.0254)"
+             id="g838">
+            <path
+               inkscape:connector-curvature="0"
+               id="path840"
+               style="fill:#e30613;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c 0,-3.979 -3.226,-7.204 -7.204,-7.204 -3.979,0 -7.204,3.225 -7.204,7.204 0,3.979 3.225,7.204 7.204,7.204 C -3.226,7.204 0,3.979 0,0" />
+          </g>
         </g>
       </g>
     </g>

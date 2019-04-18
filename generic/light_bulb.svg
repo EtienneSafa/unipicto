@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.7106252mm"
-   height="6.5509448mm"
-   viewBox="0 0 20.234499 23.212009"
+   width="300"
+   height="300"
+   viewBox="0 0 281.25 281.25001"
    id="svg12668"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="icone_ampoule_idee.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="thought.svg">
   <defs
      id="defs12670" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="249.40296"
-     inkscape:cy="585.89172"
+     inkscape:cx="-310.59704"
+     inkscape:cy="574.46315"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +36,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata12673">
     <rdf:RDF>
@@ -56,9 +57,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(607.2601,-1095.0419)">
+     transform="translate(607.2601,-837.0039)">
     <g
-       transform="translate(578.3552,255.55348)"
+       transform="matrix(12.116573,0,0,12.116573,13776.373,-9334.719)"
        id="g12631">
       <path
          sodipodi:nodetypes="ssscsscs"

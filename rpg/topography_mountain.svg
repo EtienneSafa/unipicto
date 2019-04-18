@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.5119324mm"
-   height="5.5146232mm"
-   viewBox="0 0 5.5119324 5.5146232"
+   width="79.375mm"
+   height="79.369484mm"
+   viewBox="0 0 79.375 79.369484"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="10.15636"
-     inkscape:cy="-0.41472888"
+     inkscape:zoom="0.35"
+     inkscape:cx="205.90104"
+     inkscape:cy="237.95232"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-81.721712,-123.77543)">
+     transform="translate(-82.067486,-49.763609)">
     <g
        id="g6168"
-       transform="matrix(0.35277777,0,0,-0.35277777,87.007785,126.59697)">
+       transform="matrix(5.5202031,0,0,-5.5202031,159.37241,89.448349)">
       <path
          d="m 0,0 c 0,-3.764 -3.051,-6.814 -6.814,-6.814 -3.764,0 -6.815,3.05 -6.815,6.814 0,3.764 3.051,6.814 6.815,6.814 C -3.051,6.814 0,3.764 0,0"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -68,7 +68,7 @@
     </g>
     <g
        id="g6172"
-       transform="matrix(0.35277777,0,0,-0.35277777,87.007785,126.59697)">
+       transform="matrix(5.5202031,0,0,-5.5202031,159.37241,89.448349)">
       <path
          d="m 0,0 c 0,-3.764 -3.051,-6.814 -6.814,-6.814 -3.764,0 -6.815,3.05 -6.815,6.814 0,3.764 3.051,6.814 6.815,6.814 C -3.051,6.814 0,3.764 0,0 Z"
          style="fill:none;stroke:#231f20;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -77,7 +77,7 @@
     </g>
     <g
        id="g6176"
-       transform="matrix(0.35277777,0,0,-0.35277777,85.173446,125.58015)">
+       transform="matrix(5.5202031,0,0,-5.5202031,130.669,73.537333)">
       <path
          d="M 0,0 C 0.26,0.015 0.491,-0.653 0.909,-0.504 1.412,-0.326 1.611,-0.11 1.611,-0.11 2.559,-0.864 4.105,-2.422 5.2,-2.691 5.2,-3.229 5.123,-3.722 5.123,-3.722 5.06,-4.264 4.902,-4.878 4.902,-4.878 4.049,-7.668 1.454,-9.697 -1.615,-9.697 c -2.546,0 -4.766,1.396 -5.935,3.464 0,0 2.739,4.342 3.01,5.98 0,0 0.505,-0.595 0.739,-0.595 0.496,0 1.78,3.069 1.989,3.775 0,0 0.399,-1.009 0.937,-1.447 0,0 0.67,-1.492 0.875,-1.48"
          style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"

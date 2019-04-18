@@ -13,3 +13,33 @@ Ultimately, pictos are organized in three styles for now :
 - minimalist
 - flat design
 - realistic
+
+# Contribute
+
+Any help is welcom :
+- New ideas,
+- Spotting old and crappy designs (yeah, some of those are quite old)
+- New creations,
+- Concistency checking (graphical normalization, file naming, category/tag
+  attribution, etc.),
+- Graphical bug checking,
+- Duplicate checking,
+- Tags attribution,
+- etc.
+
+If you see anything that look like a mistake, don't hesitate to send a message
+or to raise a new issue !
+
+Here are some normalization indications for contributors:
+
+**Every .svg file is:**
+- 300x300 px
+- Horizontaly and verticaly centered
+- without any shadow unless specified in the file name or created under the
+  material-design style.
+
+**Animals** fit inside the 300 px box
+
+**Flags** are 300x175 px
+
+
