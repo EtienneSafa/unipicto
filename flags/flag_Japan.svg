@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.159921mm"
+   height="9.4817848mm"
+   viewBox="0 0 15.159921 9.4817848"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="flag_Japan.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath854">
+      <path
+         d="M 0,841.89 H 595.28 V 0 H 0 Z"
+         id="path856"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath834">
+      <path
+         d="M 0,841.89 H 595.28 V 0 H 0 Z"
+         id="path836"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-9.9227591"
+     inkscape:cy="-239.22451"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="959"
+     inkscape:window-height="1023"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.02123,-103.27102)">
+    <path
+       d="m 51.883405,112.44439 h -14.56443 v -8.86495 h 14.56443 z"
+       style="fill:#70706f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28222224"
+       id="path826"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="M 51.88358,112.44439 H 37.3188 v -8.86495 h 14.56478 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.28222224"
+       id="path828"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-137.77151,125.30698)"
+       id="g830"
+       inkscape:export-filename="/home/etienne/Desktop/japonais.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g832"
+         clip-path="url(#clipPath834)">
+        <g
+           id="g838"
+           transform="translate(524.166,49.0254)">
+          <path
+             d="m 0,0 c 0,-3.979 -3.226,-7.204 -7.204,-7.204 -3.979,0 -7.204,3.225 -7.204,7.204 0,3.979 3.225,7.204 7.204,7.204 C -3.226,7.204 0,3.979 0,0"
+             style="fill:#e30613;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path840"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
