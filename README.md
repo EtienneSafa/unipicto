@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Introduction
+UniPicto is an open-source Universal Pictogram database incremented as it goes, following inspiration and welcomming any contribution.
 
-You can use the [editor on GitHub](https://github.com/EtienneSafa/unipicto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Vision
+This project is intended as an ever-growing pictogram database, open-sourced for commercial and personal use, with CC-BY-SA license (see LICENSE.md file).
+It welcomes any new pictos belonging to specific styles as well as the creation of new styles for existing pictos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Organization
+The database is simply set up in directories which, for now, serve as categories.
+As it goes, multiple pictos happen to belong into several categories, which will utltimately lead to structural changes.
+Ultimately, pictos are organized in three styles for now :
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EtienneSafa/unipicto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- minimalist
+- flat design
+- realistic
