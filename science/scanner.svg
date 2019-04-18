@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.791988mm"
+   height="24.791988mm"
+   viewBox="0 0 24.791988 24.791988"
+   version="1.1"
+   id="svg3615"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="scannet.svg">
+  <defs
+     id="defs3609" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="79.786754"
+     inkscape:cy="-128.92763"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="959"
+     inkscape:window-height="1023"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3612">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(70.604326,-64.621863)">
+    <g
+       id="Scan"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.764061,-57.60796)">
+      <circle
+         stroke-miterlimit="10"
+         cx="85.25"
+         cy="508.82199"
+         r="44.851002"
+         id="circle4889"
+         style="fill:#f3f3f2;stroke:#fafafa;stroke-width:4;stroke-miterlimit:10" />
+      <g
+         id="g4891">
+        <polygon
+           stroke-miterlimit="10"
+           points="49.105,513.914 48.348,515.387 55.049,518.836 58.664,518.836 "
+           id="polygon4893"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+        <polygon
+           stroke-miterlimit="10"
+           points="59.107,512.316 57.917,513.465 63.105,518.836 65.405,518.836 "
+           id="polygon4895"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+        <polygon
+           stroke-miterlimit="10"
+           points="69.404,512.086 67.859,512.678 70.223,518.836 71.996,518.836 "
+           id="polygon4897"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+        <polygon
+           stroke-miterlimit="10"
+           points="77.64,512.086 76.095,512.678 78.459,518.836 80.231,518.836 "
+           id="polygon4899"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+        <polygon
+           stroke-miterlimit="10"
+           points="85.875,512.086 84.332,512.678 86.695,518.836 88.467,518.836 "
+           id="polygon4901"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+        <polygon
+           stroke-miterlimit="10"
+           points="94.112,512.086 92.567,512.678 94.931,518.836 96.703,518.836 "
+           id="polygon4903"
+           style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+      </g>
+      <rect
+         x="59.091999"
+         y="503.09201"
+         transform="matrix(0.8147,0.5799,-0.5799,0.8147,309.2875,40.0029)"
+         stroke-miterlimit="10"
+         width="65.93"
+         height="1.623"
+         id="rect4905"
+         style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+      <rect
+         x="52.328999"
+         y="521.85498"
+         stroke-miterlimit="10"
+         width="66.337997"
+         height="1.623"
+         id="rect4907"
+         style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
+      <rect
+         x="58.653999"
+         y="500.61301"
+         transform="matrix(0.8147,0.5799,-0.5799,0.8147,308.4209,39.3988)"
+         width="67.827003"
+         height="3.2809999"
+         id="rect4909"
+         style="fill:#8f8c87" />
+      <rect
+         x="51.335999"
+         y="523.18903"
+         width="67.828003"
+         height="7.48"
+         id="rect4911"
+         style="fill:#8f8c87" />
+      <circle
+         stroke-miterlimit="10"
+         cx="54.351002"
+         cy="526.92999"
+         r="1.556"
+         id="circle4913"
+         style="fill:#fafafa;stroke:#d0cecc;stroke-miterlimit:10" />
+    </g>
+  </g>
+</svg>

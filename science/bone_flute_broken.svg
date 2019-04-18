@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.791988mm"
+   height="24.791988mm"
+   viewBox="0 0 24.791988 24.791988"
+   version="1.1"
+   id="svg3615"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="broken_bone_flute.svg">
+  <defs
+     id="defs3609" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="143.99385"
+     inkscape:cy="-224.57757"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="959"
+     inkscape:window-height="1023"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3612">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(70.604326,-64.621863)">
+    <g
+       id="Flûte_archéo_1_"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.794334,37.281673)">
+      <circle
+         stroke-miterlimit="10"
+         cx="96.703003"
+         cy="150.18401"
+         r="44.851002"
+         id="circle5357"
+         style="fill:#f3f3f2;stroke:#fafafa;stroke-width:4;stroke-miterlimit:10" />
+      <g
+         id="g5359">
+        <g
+           id="g5361">
+          <path
+             d="m 121.543,120.457 c -2.688,-2.368 -7.172,-5.969 -7.172,-5.969 -0.674,1.547 -1.678,3.265 -3.16,5.098 -2.078,2.571 -5.641,6.415 -9.464,10.396 l -0.645,4.894 2.358,-2.343 -2.229,6.715 3.472,-1.012 0.282,1.02 c 0.423,-0.39 0.705,-0.653 0.79,-0.74 0.707,-0.719 5.714,-5.252 6.243,-5.794 0.529,-0.54 3.21,-1.884 4.917,-3.742 0.894,-3.292 4.608,-8.523 4.608,-8.523 z"
+             id="path5363"
+             inkscape:connector-curvature="0"
+             style="fill:#666666" />
+          <path
+             d="m 110.505,121.542 4.08,3.292 c 0,0 -8.186,4.067 -4.08,-3.292 z"
+             id="path5365"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           id="g5367">
+          <path
+             d="m 94.394,133.146 -0.902,-7.017 -1.109,3.134 -1.54,-4.689 c -3.187,9.721 -6.975,20.26 -7.479,21.751 -0.829,2.447 -3.014,7.754 -6.643,23.165 -1.177,4.99 -4.132,7.115 -4.386,7.362 -0.254,0.248 -0.619,1.321 -0.411,1.725 0.207,0.402 2.888,1.112 3.161,2.335 0.272,1.223 -0.399,2.194 1.403,2.206 1.799,0.01 2.342,0.182 3.109,1.212 0.769,1.03 2.028,-0.403 1.758,0.901 -0.271,1.306 3.262,0.438 3.787,-0.78 0.801,-1.857 0.048,-4.708 -0.331,-6.632 -0.379,-1.924 -0.945,-3.048 1.083,-12.073 2.027,-9.026 3.908,-14.577 4.409,-15.804 0.44,-1.079 5.935,-14.525 7.478,-18.413 l -0.696,-0.797 z"
+             id="path5369"
+             inkscape:connector-curvature="0"
+             style="fill:#666666" />
+          <ellipse
+             transform="matrix(0.9677,0.2523,-0.2523,0.9677,37.9347,-17.8696)"
+             cx="88.650002"
+             cy="138.992"
+             rx="1.329"
+             ry="1.508"
+             id="ellipse5371"
+             style="fill:#ffffff" />
+          <ellipse
+             transform="matrix(0.9677,0.252,-0.252,0.9677,39.3504,-17.1794)"
+             cx="86.740997"
+             cy="145.028"
+             rx="1.475"
+             ry="1.697"
+             id="ellipse5373"
+             style="fill:#ffffff" />
+          <ellipse
+             transform="matrix(0.9676,0.2524,-0.2524,0.9676,40.8776,-16.4439)"
+             cx="84.542999"
+             cy="151.134"
+             rx="1.4299999"
+             ry="1.612"
+             id="ellipse5375"
+             style="fill:#ffffff" />
+          <ellipse
+             transform="matrix(0.9677,0.2521,-0.2521,0.9677,42.6018,-15.5841)"
+             cx="82.128998"
+             cy="158.492"
+             rx="1.0779999"
+             ry="1.239"
+             id="ellipse5377"
+             style="fill:#ffffff" />
+          <ellipse
+             transform="matrix(0.9677,0.2521,-0.2521,0.9677,44.0869,-15.0867)"
+             cx="80.912003"
+             cy="164.48399"
+             rx="1.679"
+             ry="1.9299999"
+             id="ellipse5379"
+             style="fill:#ffffff" />
+          <ellipse
+             transform="matrix(0.9677,0.2522,-0.2522,0.9677,45.6379,-14.5292)"
+             cx="79.501999"
+             cy="170.785"
+             rx="1.475"
+             ry="1.698"
+             id="ellipse5381"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
