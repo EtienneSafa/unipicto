@@ -1,5 +1,5 @@
 pictogram | minimalist | flat | realistic |
------------------------------------------ |
+|
 3D_printer | ![/pictos/3D_printer.svg]
 abstract_territory | ![/pictos/abstract_territory.svg]
 animal_cow | ![/pictos/animal_cow.svg]
