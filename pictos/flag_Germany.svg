@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 79.375004 79.375002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="flag_Germany.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath854">
+      <path
+         d="M 0,841.89 H 595.28 V 0 H 0 Z"
+         id="path856"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="181.37613"
+     inkscape:cy="91.036837"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="959"
+     inkscape:window-height="1023"
+     inkscape:window-x="959"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.02123,-33.377804)">
+    <g
+       id="g863"
+       transform="translate(-0.2975625,-0.1246295)">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/allemand.png"
+         inkscape:connector-curvature="0"
+         id="path812"
+         style="fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50565612"
+         d="M 116.69379,50.038892 H 37.318795 v 15.434026 h 79.374995 z" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/allemand.png"
+         inkscape:connector-curvature="0"
+         id="path814"
+         style="fill:#e30613;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50565612"
+         d="M 116.69379,80.906945 H 37.318795 v 15.430317 h 79.374995 z" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/allemand.png"
+         inkscape:connector-curvature="0"
+         id="path816"
+         style="fill:#ffed00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50565612"
+         d="M 37.318795,96.340971 H 116.69379 V 80.906945 H 37.318795 Z" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/allemand.png"
+         inkscape:connector-curvature="0"
+         id="path816-7"
+         style="fill:#ffcf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50565612"
+         d="M 37.318795,96.340975 H 116.69379 V 80.906945 H 37.318795 Z" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/etienne/Desktop/allemand.png"
+         inkscape:connector-curvature="0"
+         id="path816-7-0"
+         style="fill:#de0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50565612"
+         d="M 37.318795,80.906945 H 116.69379 V 65.472917 H 37.318795 Z" />
+    </g>
+  </g>
+</svg>
