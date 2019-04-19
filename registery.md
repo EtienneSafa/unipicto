@@ -19,7 +19,8 @@ science | book_reference_2 | | <img src="/pictos/book_reference_2.svg" width="1
 generic, cv | checkboxes | <img src="/pictos/checkboxes.svg" width="100px">
 generic, cv | checkbox | <img src="/pictos/checkbox.svg" width="100px">
 generic | coffee_cup_smiling | | <img src="/pictos/coffee_cup_smiling.svg" width="100px">
-generic | coffee_cup_smoke_smiling | | <img src="/pictos/coffee_cup_smoke_smiling.svg" width="100px">
+generic | coffee_cup_smoke_smiling | | <img src="coffee_cup_smoke_smiling.svg"
+width="100px">
 generic | coffee_cup_smoke | | <img src="/pictos/coffee_cup_smoke.svg" width="100px">
 generic | coffee_cup | | <img src="/pictos/coffee_cup.svg" width="100px">
 science | compas_measures | | <img src="/pictos/compas_measures.svg" width="100px">
