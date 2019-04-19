@@ -1,5 +1,5 @@
 pictogram | minimalist | flat | realistic | TAGS | |
-|----|-----|----|----|---| |
+|----|-----|----|----|---|---|
 3D_printer | | <img src="/pictos/3D_printer.svg" width="100px"> | science
 abstract_territory | <img src="/pictos/abstract_territory.svg" width="100px"> | rpg
 animal_cow | | | <img src="/pictos/animal_cow.svg" width="100px"> | rpg
