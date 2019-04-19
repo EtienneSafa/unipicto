@@ -1,110 +1,111 @@
 pictogram | minimalist | flat | realistic |
 |----|-----|----|----|
-3D_printer | ![reg](/pictos/3D_printer.svg)
-abstract_territory | ![reg](/pictos/abstract_territory.svg)
-animal_cow | ![reg](/pictos/animal_cow.svg)
-animal_pig | animal_pig.svg
-anvil | anvil.svg
-archaeology | archaeology.svg
-arts_and_crafts | arts_and_crafts.svg
-blog_round | blog_round.svg
-blood | blood.svg
-bone_flute_3D_printed | bone_flute_3D_printed.svg
-bone_flute_broken | bone_flute_broken.svg
-bone_flute | bone_flute.svg
-book_reference_1 | book_reference_1.svg
-book_reference_2 | book_reference_2.svg
-checkboxes | checkboxes.svg
-checkbox | checkbox.svg
-coffee_cup_smiling | coffee_cup_smiling.svg
-coffee_cup_smoke_smiling | coffee_cup_smoke_smiling.svg
-coffee_cup_smoke | coffee_cup_smoke.svg
-coffee_cup | coffee_cup.svg
-compas_measures | compas_measures.svg
-dagger | dagger.svg
-database | database.svg
-document_edit | document_edit.svg
-document | document.svg
-download_round | download_round.svg
-edit_digital | edit_digital.svg
-email | email.svg
-eye | eye.svg
-facebook_round | facebook_round.svg
-flag_Germany | flag_Germany.svg
-flag_Japan | flag_Japan.svg
-flag_Portugal | flag_Portugal.svg
-flag_UK | flag_UK.svg
-github_round | github_round.svg
-goat | goat.svg
-hammer | hammer.svg
-handcrafting | handcrafting.svg
-hand | hand.svg
-helm | helm.svg
-home_round | home_round.svg
-horse | horse.svg
-house | house.svg
-increment_data | increment_data.svg
-info_round | info_round.svg
-lantern | lantern.svg
-layout | layout.svg
-light_bulb | light_bulb.svg
-linkedin_square | linkedin_square.svg
-location_flag | location_flag.svg
-location | location.svg
-magnifying_glass | magnifying_glass.svg
-mail | mail.svg
-message | message.svg
-mic | mic.svg
-money | money.svg
-oven_large | oven_large.svg
-oven_small | oven_small.svg
-paper_email | paper_email.svg
-paper | paper.svg
-paper_upload | paper_upload.svg
-parchment_and_quill | parchment_and_quill.svg
-parchment | parchment.svg
-people | people.svg
-person | person.svg
-phone_round | phone_round.svg
-phone | phone.svg
-purse | purse.svg
-scanner | scanner.svg
-school_bag | school_bag.svg
-shield | shield.svg
-sickle | sickle.svg
-sound | sound.svg
-studies | studies.svg
-talk | talk.svg
-test | test.svg
-thinking | thinking.svg
-topography_altitude_cliff | topography_altitude_cliff.svg
-topography_altitude_hill | topography_altitude_hill.svg
-topography_altitude_rocky_outcrop | topography_altitude_rocky_outcrop.svg
-topography_altitude_valley | topography_altitude_valley.svg
-topography_estuary | topography_estuary.svg
-topography_hills | topography_hills.svg
-topography_lands | topography_lands.svg
-topography_mountain | topography_mountain.svg
-topography_shore | topography_shore.svg
-tower | tower.svg
-tree_oak | tree_oak.svg
-twitter_round | twitter_round.svg
-user_group2 | user_group2.svg
-user_group | user_group.svg
-user_round | user_round.svg
-user | user.svg
-video | video.svg
-water_canal | water_canal.svg
-water_fountain | water_fountain.svg
-watering | watering.svg
-watermill | watermill.svg
-water_river | water_river.svg
-water_sewer | water_sewer.svg
-water_well | water_well.svg
-website | website.svg
-wheels | wheels.svg
-wheel | wheel.svg
-windmill | windmill.svg
-wordpress | wordpress.svg
-working | working.svg
-youtube_square | youtube_square.svg
+3D_printer | | ![](/pictos/3D_printer.svg)
+abstract_territory | ![](/pictos/abstract_territory.svg)
+animal_cow | ![](/pictos/animal_cow.svg)
+animal_pig | ![](/pictos/animal_pig.svg)
+anvil | ![](/pictos/anvil.svg)
+archaeology | | ![](/pictos/archaeology.svg)
+arts_and_crafts | | ![](/pictos/arts_and_crafts.svg)
+blog_round | ![](/pictos/blog_round.svg)
+blood | ![](/pictos/blood.svg)
+bone_flute_3D_printed | | ![](/pictos/bone_flute_3D_printed.svg)
+bone_flute_broken | | ![](/pictos/bone_flute_broken.svg)
+bone_flute | | ![](/pictos/bone_flute.svg)
+book_reference_1 | | ![](/pictos/book_reference_1.svg)
+book_reference_2 | | ![](/pictos/book_reference_2.svg)
+checkboxes | ![](/pictos/checkboxes.svg)
+checkbox | ![](/pictos/checkbox.svg)
+coffee_cup_smiling | ![](/pictos/coffee_cup_smiling.svg)
+coffee_cup_smoke_smiling | ![](/pictos/coffee_cup_smoke_smiling.svg)
+coffee_cup_smoke | ![](/pictos/coffee_cup_smoke.svg)
+coffee_cup | ![](/pictos/coffee_cup.svg)
+compas_measures | | ![](/pictos/compas_measures.svg)
+dagger | ![](/pictos/dagger.svg)
+database | | ![](/pictos/database.svg)
+document_edit | ![](/pictos/document_edit.svg)
+document | ![](/pictos/document.svg)
+download_round | ![](/pictos/download_round.svg)
+edit_digital | | ![](/pictos/edit_digital.svg)
+email | ![](/pictos/email.svg)
+eye | | ![](/pictos/eye.svg)
+facebook_round | ![](/pictos/facebook_round.svg)
+flag_Germany | | ![](/pictos/flag_Germany.svg)
+flag_Japan | | ![](/pictos/flag_Japan.svg)
+flag_Portugal | | ![](/pictos/flag_Portugal.svg)
+flag_UK | | ![](/pictos/flag_UK.svg)
+github_round | ![](/pictos/github_round.svg)
+goat | ![](/pictos/goat.svg)
+hammer | ![](/pictos/hammer.svg)
+handcrafting | | ![](/pictos/handcrafting.svg)
+hand | ![](/pictos/hand.svg)
+helm | ![](/pictos/helm.svg)
+home_round | ![](/pictos/home_round.svg)
+horse | ![](/pictos/horse.svg)
+house | ![](/pictos/house.svg)
+increment_data | | ![](/pictos/increment_data.svg)
+info_round | ![](/pictos/info_round.svg)
+lantern | | | ![](/pictos/lantern.svg)
+layout | ![](/pictos/layout.svg)
+light_bulb | ![](/pictos/light_bulb.svg)
+linkedin_square | ![](/pictos/linkedin_square.svg)
+location_flag | ![](/pictos/location_flag.svg)
+location | ![](/pictos/location.svg)
+magnifying_glass | ![](/pictos/magnifying_glass.svg)
+mail | ![](/pictos/mail.svg)
+message | ![](/pictos/message.svg)
+mic | ![](/pictos/mic.svg)
+money | ![](/pictos/money.svg)
+oven_large | ![](/pictos/oven_large.svg)
+oven_small | ![](/pictos/oven_small.svg)
+paper_email | | ![](/pictos/paper_email.svg)
+paper | | ![](/pictos/paper.svg)
+paper_upload | | ![](/pictos/paper_upload.svg)
+parchment_and_quill | ![](/pictos/parchment_and_quill.svg)
+parchment | ![](/pictos/parchment.svg)
+people | ![](/pictos/people.svg)
+person | ![](/pictos/person.svg)
+phone_round | ![](/pictos/phone_round.svg)
+phone | ![](/pictos/phone.svg)
+purse | ![](/pictos/purse.svg)
+scanner | | ![](/pictos/scanner.svg)
+school_bag | ![](/pictos/school_bag.svg)
+shield | ![](/pictos/shield.svg)
+sickle | ![](/pictos/sickle.svg)
+sound | | ![](/pictos/sound.svg)
+studies | ![](/pictos/studies.svg)
+talk | | ![](/pictos/talk.svg)
+test | | ![](/pictos/test.svg)
+thinking | ![](/pictos/thinking.svg)
+topography_altitude_cliff | ![](/pictos/topography_altitude_cliff.svg)
+topography_altitude_hill | ![](/pictos/topography_altitude_hill.svg)
+topography_altitude_rocky_outcrop |
+![](/pictos/topography_altitude_rocky_outcrop.svg)
+topography_altitude_valley | ![](/pictos/topography_altitude_valley.svg)
+topography_estuary | ![](/pictos/topography_estuary.svg)
+topography_hills | ![](/pictos/topography_hills.svg)
+topography_lands | ![](/pictos/topography_lands.svg)
+topography_mountain | ![](/pictos/topography_mountain.svg)
+topography_shore | ![](/pictos/topography_shore.svg)
+tower | ![](/pictos/tower.svg)
+tree_oak | ![](/pictos/tree_oak.svg)
+twitter_round | ![](/pictos/twitter_round.svg)
+user_group2 | ![](/pictos/user_group2.svg)
+user_group | ![](/pictos/user_group.svg)
+user_round | ![](/pictos/user_round.svg)
+user | ![](/pictos/user.svg)
+video | | ![](/pictos/video.svg)
+water_canal | ![](/pictos/water_canal.svg)
+water_fountain | ![](/pictos/water_fountain.svg)
+watering | ![](/pictos/watering.svg)
+watermill | ![](/pictos/watermill.svg)
+water_river | ![](/pictos/water_river.svg)
+water_sewer | ![](/pictos/water_sewer.svg)
+water_well | ![](/pictos/water_well.svg)
+website | ![](/pictos/website.svg)
+wheels | ![](/pictos/wheels.svg)
+wheel | ![](/pictos/wheel.svg)
+windmill | ![](/pictos/windmill.svg)
+wordpress | ![](/pictos/wordpress.svg)
+working | | ![](/pictos/working.svg)
+youtube_square | ![](/pictos/youtube_square.svg)
