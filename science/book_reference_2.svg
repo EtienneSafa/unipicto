@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.791988mm"
-   height="24.791988mm"
-   viewBox="0 0 24.791988 24.791988"
+   width="79.375mm"
+   height="79.375mm"
+   viewBox="0 0 79.374999 79.374999"
    version="1.1"
    id="svg3615"
    inkscape:version="0.92.4 (unknown)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="143.99385"
-     inkscape:cy="-224.57757"
+     inkscape:cx="-418.86429"
+     inkscape:cy="-224.57856"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,11 +35,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="959"
+     inkscape:window-width="1920"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3612">
     <rdf:RDF>
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.604326,-64.621863)">
+     transform="translate(70.604062,-10.038589)">
     <g
        id="ouvrages"
-       transform="matrix(0.26458333,0,0,0.26458333,-119.73454,17.81919)">
+       transform="matrix(0.84711849,0,0,0.84711849,-227.90549,-139.81074)">
       <g
          id="Publications">
         <circle

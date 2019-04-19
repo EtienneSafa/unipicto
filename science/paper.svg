@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.791988mm"
-   height="24.791988mm"
-   viewBox="0 0 24.791988 24.791988"
+   width="79.375mm"
+   height="79.375mm"
+   viewBox="0 0 79.374999 79.374999"
    version="1.1"
    id="svg3615"
    inkscape:version="0.92.4 (unknown)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="79.786754"
-     inkscape:cy="-128.92763"
+     inkscape:cx="64.072458"
+     inkscape:cy="-83.213341"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="959"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="959"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.604326,-64.621863)">
+     transform="translate(70.604323,-10.038852)">
     <g
        id="Stages"
-       transform="matrix(0.26458333,0,0,0.26458333,-139.66983,-121.34529)">
+       transform="matrix(0.84710035,0,0,0.84710035,-291.72715,-585.36087)">
       <circle
          stroke-miterlimit="10"
          cx="307.88599"
@@ -75,7 +75,7 @@
            inkscape:connector-curvature="0"
            style="fill:#8f8c87" />
         <polygon
-           points="330.547,727.268 338.999,741.646 326.654,784.885 292.281,775.072 307.783,720.77 "
+           points="292.281,775.072 307.783,720.77 330.547,727.268 338.999,741.646 326.654,784.885 "
            id="polygon4988"
            style="fill:#ffffff" />
         <path
@@ -86,7 +86,7 @@
         <g
            id="g4992">
           <polygon
-             points="329.725,727.032 331.37,727.502 328.446,737.742 339.234,740.823 338.764,742.468 326.332,738.918 "
+             points="339.234,740.823 338.764,742.468 326.332,738.918 329.725,727.032 331.37,727.502 328.446,737.742 "
              id="polygon4994"
              style="fill:#bdbab6" />
         </g>
@@ -163,7 +163,7 @@
            inkscape:connector-curvature="0"
            style="fill:#8f8c87" />
         <polygon
-           points="308.057,718.474 320.131,729.979 320.131,774.947 284.383,774.947 284.383,718.474 "
+           points="284.383,774.947 284.383,718.474 308.057,718.474 320.131,729.979 320.131,774.947 "
            id="polygon5016"
            style="fill:#ffffff" />
         <path
@@ -174,7 +174,7 @@
         <g
            id="g5020">
           <polygon
-             points="307.201,718.474 308.912,718.474 308.912,729.123 320.131,729.123 320.131,730.834 307.201,730.834 "
+             points="320.131,729.123 320.131,730.834 307.201,730.834 307.201,718.474 308.912,718.474 308.912,729.123 "
              id="polygon5022"
              style="fill:#a6a29d" />
         </g>

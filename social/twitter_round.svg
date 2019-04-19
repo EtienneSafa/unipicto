@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.7602558mm"
-   height="5.7602558mm"
-   viewBox="0 0 20.410355 20.410355"
+   width="79.375mm"
+   height="79.375mm"
+   viewBox="0 0 281.25 281.25"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="twitter.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="twitter_black.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="12.08903"
-     inkscape:cy="-1.2158649"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="-127.36975"
+     inkscape:cy="58.0406"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,16 +56,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-239.10996,-145.75787)">
+     transform="translate(-239.10995,114.99249)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4460"
-       cx="249.37781"
-       cy="155.98965"
-       r="10.267858" />
+       cx="379.73495"
+       cy="25.632515"
+       r="140.625" />
     <g
        id="g4410"
-       transform="matrix(0.05075076,0.00634386,-0.00634386,0.05075076,218.88305,116.81775)"
+       transform="matrix(0.69506472,0.0868833,-0.0868833,0.69506472,-37.910622,-510.85224)"
        style="fill:#ffffff">
       <path
          id="path4412"

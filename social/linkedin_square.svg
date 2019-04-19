@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5.7602558mm"
-   height="5.7602558mm"
-   viewBox="0 0 20.410355 20.410355"
+   width="79.374992mm"
+   height="79.374992mm"
+   viewBox="0 0 281.24997 281.24997"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="linkedin.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="linkedin_square.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="-22.232354"
-     inkscape:cy="22.334929"
+     inkscape:zoom="0.7"
+     inkscape:cx="144.38945"
+     inkscape:cy="-165.16602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,18 +56,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-239.10996,-145.75787)">
+     transform="translate(-239.10995,115.08176)">
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336"
-       width="20.410351"
-       height="20.410351"
+       width="281.24997"
+       height="281.24997"
        x="239.10995"
-       y="145.75787"
-       ry="3.6242678" />
+       y="-115.08176"
+       ry="49.941586" />
     <g
        id="g4372"
-       transform="matrix(0.82281629,0,0,0.82281629,44.17458,27.634112)">
+       transform="matrix(11.338221,0,0,11.338221,-2447.0551,-1742.8003)">
       <g
          transform="matrix(0.48302926,0,0,0.48302926,134.16441,85.904111)"
          id="text4138"
@@ -75,7 +75,7 @@
         <path
            id="path4252"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Noto Sans Cherokee';-inkscape-font-specification:'Noto Sans Cherokee'"
-           d="m 255.29437,147.94949 0,13.32032 -7.03125,0 0,-2.16797 0,-8.02735 q 0,-2.83203 -0.13672,-3.90625 -0.11718,-1.07422 -0.42968,-1.58203 -0.41016,-0.68359 -1.11328,-1.05469 -0.70313,-0.39062 -1.60157,-0.39062 -2.1875,0 -3.4375,1.69922 -1.25,1.67969 -1.25,4.66797 l 0,10.76172 -6.99218,0 0,-21.875 6.99218,0 0,3.20312 q 1.58203,-1.91406 3.35938,-2.8125 1.77734,-0.91797 3.92578,-0.91797 3.78906,0 5.74219,2.32422 1.97265,2.32422 1.97265,6.75781 z"
+           d="m 255.29437,147.94949 v 13.32032 h -7.03125 v -2.16797 -8.02735 q 0,-2.83203 -0.13672,-3.90625 -0.11718,-1.07422 -0.42968,-1.58203 -0.41016,-0.68359 -1.11328,-1.05469 -0.70313,-0.39062 -1.60157,-0.39062 -2.1875,0 -3.4375,1.69922 -1.25,1.67969 -1.25,4.66797 v 10.76172 h -6.99218 v -21.875 h 6.99218 v 3.20312 q 1.58203,-1.91406 3.35938,-2.8125 1.77734,-0.91797 3.92578,-0.91797 3.78906,0 5.74219,2.32422 1.97265,2.32422 1.97265,6.75781 z"
            inkscape:connector-curvature="0" />
       </g>
       <rect

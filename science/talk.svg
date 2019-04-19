@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.791988mm"
-   height="24.791988mm"
-   viewBox="0 0 24.791988 24.791988"
+   width="79.375mm"
+   height="79.375mm"
+   viewBox="0 0 79.374999 79.374999"
    version="1.1"
    id="svg3615"
    inkscape:version="0.92.4 (unknown)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="9.4108388"
-     inkscape:cy="0.27453792"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="150.74819"
+     inkscape:cy="-29.656463"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="959"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="959"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.604326,-64.621863)">
+     transform="translate(70.604069,-10.038589)">
     <g
        id="Conférences"
-       transform="matrix(0.26458333,0,0,0.26458333,-147.68116,-44.660841)">
+       transform="matrix(0.84711849,0,0,0.84711849,-317.3824,-339.85354)">
       <circle
          stroke-miterlimit="10"
          cx="338.16501"

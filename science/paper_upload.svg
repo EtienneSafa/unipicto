@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.791988mm"
-   height="24.791988mm"
-   viewBox="0 0 24.791988 24.791988"
+   width="300"
+   height="300"
+   viewBox="0 0 79.374999 79.374999"
    version="1.1"
    id="svg3615"
    inkscape:version="0.92.4 (unknown)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="79.786754"
-     inkscape:cy="-128.92763"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="117.22126"
+     inkscape:cy="-1.773432"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,9 +37,10 @@
      fit-margin-bottom="0"
      inkscape:window-width="959"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="959"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata3612">
     <rdf:RDF>
@@ -56,10 +57,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.604326,-64.621863)">
+     transform="translate(70.604326,-10.038851)">
     <g
        id="Publications_1_"
-       transform="matrix(0.26458333,0,0,0.26458333,-194.17135,-112.56126)">
+       transform="matrix(0.72362378,0,0,0.72362378,-402.7697,-468.76421)">
       <circle
          stroke-miterlimit="10"
          cx="513.87598"
@@ -75,7 +76,7 @@
            inkscape:connector-curvature="0"
            style="fill:#8f8c87" />
         <polygon
-           points="536.539,686.074 544.99,700.452 532.646,743.691 498.271,733.878 513.773,679.575 "
+           points="498.271,733.878 513.773,679.575 536.539,686.074 544.99,700.452 532.646,743.691 "
            id="polygon5047"
            style="fill:#ffffff" />
         <path
@@ -86,7 +87,7 @@
         <g
            id="g5051">
           <polygon
-             points="535.715,685.838 537.361,686.309 534.438,696.549 545.225,699.629 544.754,701.273 532.322,697.725 "
+             points="534.438,696.549 545.225,699.629 544.754,701.273 532.322,697.725 535.715,685.838 537.361,686.309 "
              id="polygon5053"
              style="fill:#bdbab6" />
         </g>
@@ -163,7 +164,7 @@
            inkscape:connector-curvature="0"
            style="fill:#8f8c87" />
         <polygon
-           points="514.047,677.28 526.121,688.785 526.121,733.754 490.373,733.754 490.373,677.28 "
+           points="490.373,733.754 490.373,677.28 514.047,677.28 526.121,688.785 526.121,733.754 "
            id="polygon5075"
            style="fill:#ffffff" />
         <path
@@ -174,7 +175,7 @@
         <g
            id="g5079">
           <polygon
-             points="513.191,677.28 514.903,677.28 514.903,687.929 526.121,687.929 526.121,689.64 513.191,689.64 "
+             points="514.903,687.929 526.121,687.929 526.121,689.64 513.191,689.64 513.191,677.28 514.903,677.28 "
              id="polygon5081"
              style="fill:#a6a29d" />
         </g>
@@ -244,7 +245,7 @@
            style="fill:none;stroke:#bdbab6;stroke-width:1.5;stroke-miterlimit:10" />
       </g>
       <polygon
-         points="513.877,728.075 491.645,758.993 502.068,758.993 502.068,771.365 525.684,771.365 525.684,758.993 536.107,758.993 "
+         points="491.645,758.993 502.068,758.993 502.068,771.365 525.684,771.365 525.684,758.993 536.107,758.993 513.877,728.075 "
          id="polygon5099"
          style="fill:#a6a29d" />
     </g>

@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.791988mm"
-   height="24.791988mm"
-   viewBox="0 0 24.791988 24.791988"
+   width="79.375mm"
+   height="79.375mm"
+   viewBox="0 0 79.374999 79.374999"
    version="1.1"
    id="svg3615"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="scannet.svg">
+   sodipodi:docname="scanner.svg">
   <defs
      id="defs3609" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="79.786754"
-     inkscape:cy="-128.92763"
+     inkscape:zoom="0.7"
+     inkscape:cx="96.952138"
+     inkscape:cy="-35.025758"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="959"
      inkscape:window-height="1023"
-     inkscape:window-x="960"
+     inkscape:window-x="959"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -56,10 +56,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(70.604326,-64.621863)">
+     transform="translate(70.604325,-10.038847)">
     <g
        id="Scan"
-       transform="matrix(0.26458333,0,0,0.26458333,-80.764061,-57.60796)">
+       transform="matrix(0.84710035,0,0,0.84710035,-103.13213,-381.29694)">
       <circle
          stroke-miterlimit="10"
          cx="85.25"
@@ -71,32 +71,32 @@
          id="g4891">
         <polygon
            stroke-miterlimit="10"
-           points="49.105,513.914 48.348,515.387 55.049,518.836 58.664,518.836 "
+           points="58.664,518.836 49.105,513.914 48.348,515.387 55.049,518.836 "
            id="polygon4893"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
         <polygon
            stroke-miterlimit="10"
-           points="59.107,512.316 57.917,513.465 63.105,518.836 65.405,518.836 "
+           points="65.405,518.836 59.107,512.316 57.917,513.465 63.105,518.836 "
            id="polygon4895"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
         <polygon
            stroke-miterlimit="10"
-           points="69.404,512.086 67.859,512.678 70.223,518.836 71.996,518.836 "
+           points="71.996,518.836 69.404,512.086 67.859,512.678 70.223,518.836 "
            id="polygon4897"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
         <polygon
            stroke-miterlimit="10"
-           points="77.64,512.086 76.095,512.678 78.459,518.836 80.231,518.836 "
+           points="80.231,518.836 77.64,512.086 76.095,512.678 78.459,518.836 "
            id="polygon4899"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
         <polygon
            stroke-miterlimit="10"
-           points="85.875,512.086 84.332,512.678 86.695,518.836 88.467,518.836 "
+           points="88.467,518.836 85.875,512.086 84.332,512.678 86.695,518.836 "
            id="polygon4901"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
         <polygon
            stroke-miterlimit="10"
-           points="94.112,512.086 92.567,512.678 94.931,518.836 96.703,518.836 "
+           points="96.703,518.836 94.112,512.086 92.567,512.678 94.931,518.836 "
            id="polygon4903"
            style="fill:#ffffff;stroke:#e4e2e0;stroke-miterlimit:10" />
       </g>

@@ -16,7 +16,7 @@ Ultimately, pictos are organized in three styles for now :
 
 # Contribute
 
-Any help is welcom :
+Any help is welcome :
 - New ideas,
 - Spotting old and crappy designs (yeah, some of those are quite old)
 - New creations,
