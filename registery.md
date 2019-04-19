@@ -1,8 +1,8 @@
 pictogram | minimalist | flat | realistic |
 |----|-----|----|----|
-3D_printer | ![](/pictos/3D_printer.svg)
-abstract_territory | ![](/pictos/abstract_territory.svg)
-animal_cow | ![](/pictos/animal_cow.svg)
+3D_printer | ![](/pictos/3D_printer.svg =100x)
+abstract_territory | ![](/pictos/abstract_territory.svg =100x)
+animal_cow | ![](/pictos/animal_cow.svg =100x)
 animal_pig | animal_pig.svg
 anvil | anvil.svg
 archaeology | archaeology.svg
